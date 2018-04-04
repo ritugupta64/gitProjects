@@ -1,2 +1,1 @@
-# gitProjects
-Basics
+hi, this is the test msg
